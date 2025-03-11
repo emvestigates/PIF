@@ -1,5 +1,5 @@
 
-name: Update File
+name: Download File
 on:
   workflow_dispatch:
 jobs:
